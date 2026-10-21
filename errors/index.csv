@@ -1,0 +1,14 @@
+id,date_observed,component,summary,severity,status,source,incident_file
+OLY-0001,2026-10-21,repository-selection,Initial go-git candidate rejected as reserved; moved to parquet-go,low,closed,Archived task: Find a qualifying GitHub repo,docs/olympus-task-context.md
+OLY-0002,2026-10-21,task-quality,Initial localized conversion change was too small for Olympus scope,high,investigating,Archived task: Find a qualifying GitHub repo,errors/olympus-challenge-history.md
+OLY-0003,2026-10-21,task-prompt,Prompt repeatedly failed as too prescriptive; no final pass recorded,medium,open,Archived task: Find a qualifying GitHub repo,errors/olympus-challenge-history.md
+OLY-0004,2026-10-21,test-coverage,Missing row-group/page/copy and type/bounds/logical-type checks,high,investigating,Archived task: Find a qualifying GitHub repo,errors/olympus-challenge-history.md
+OLY-0005,2026-10-21,test-compilation,Invalid integer range loops plus brittle pagination and runner assumptions,high,investigating,Archived task: Find a qualifying GitHub repo,errors/olympus-challenge-history.md
+OLY-0006,2026-10-21,test-collision,Predictable numeric_promotion_test.go path,low,fixed,Archived task: Find a qualifying GitHub repo,errors/olympus-challenge-history.md
+OLY-0007,2026-10-21,baseline-runner,Baseline included new challenge tests in reported failure count,high,investigating,Archived task: Find a qualifying GitHub repo,errors/olympus-challenge-history.md
+OLY-0008,2026-10-21,fail-to-pass,Several new tests passed without solution.patch,high,investigating,Archived task: Find a qualifying GitHub repo,errors/olympus-challenge-history.md
+OLY-0009,2026-10-21,logical-type-test,Incompatible logical-type test failed due to schema setup,high,investigating,Archived task: Find a qualifying GitHub repo,errors/olympus-challenge-history.md
+OLY-0010,2026-10-21,solution-quality,Decimal scale reinterpretation and source-typed page dictionary/data,high,investigating,Archived task: Find a qualifying GitHub repo,errors/olympus-challenge-history.md
+OLY-0011,2026-10-21,solution-application,Patch hunk mismatch; latest verifier error at convert.go:1010,high,open,Archived task: Find a qualifying GitHub repo,errors/olympus-challenge-history.md
+OLY-0012,2026-10-21,container-build,Generic rebuild failed without detailed failing step,high,open,Archived task: Find a qualifying GitHub repo,errors/olympus-challenge-history.md
+OLY-0013,2026-10-21,task-category,Classification reviewer recommended bugfix; platform change not confirmed,medium,open,Archived task: Find a qualifying GitHub repo,errors/olympus-challenge-history.md
